@@ -39,3 +39,7 @@ My name is Marina, and I'm a frontend developer with experience in creating Sing
 ![Coding Cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hnc2Z3YXN3NWhhMDNxYjFqdXNzZWpxb2plc3o5Ym45YmZ3eW8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 ### Looking forward to your feedback and collaboration!
+
+[![Download CV (ru)](https://img.shields.io/badge/Download_CV_-RU-darkorange  )](https://raw.githubusercontent.com/marinavyatk/marinavyatk/main/Marina_Vyatkina_ru.pdf)
+[![Download CV (eng)](https://img.shields.io/badge/Download_CV_-ENG-darkorange  )](https://raw.githubusercontent.com/marinavyatk/marinavyatk/main/Marina_Vyatkina_eng.pdf)
+
